@@ -1,0 +1,38 @@
+li {
+    display: inline-block;
+}
+menu {
+    background-color: black;
+    color: #fff;
+    line-height: 50px;
+}
+
+menu li {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+menu a {
+    color: #fff;
+    text-decoration: none;
+}
+
+body, menu {
+    padding: 0px;
+    margin: 0px;
+}
+
+menu ul {
+    margin: 0px;
+}
+
+menu a:hover{
+    color: goldenrod;
+}
+
+a::first-letter {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: red;
+}
+    
