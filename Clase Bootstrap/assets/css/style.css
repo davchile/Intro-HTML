@@ -1,3 +1,29 @@
-footer {
+.texto-light {
+    color: white;
     
+}
+
+.card {
+    height: 25rem;
+}
+
+.card img {
+    height: 11rem;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.formulario {
+    width: 50rem;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
 }
