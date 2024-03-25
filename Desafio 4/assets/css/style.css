@@ -1,0 +1,35 @@
+.card-body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: start;
+}
+
+
+.card-price {
+    text-align: end;
+    padding: 15px;
+    line-height: auto;
+}
+
+.card-link {
+    text-decoration: none;
+    color: #707070;
+    padding: 20px;
+}
+
+.card-link-2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-decoration: none;
+    color: #28a745;
+    font-size: 1.5rem;
+}
+
+section {
+    background-color: #28a745;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
